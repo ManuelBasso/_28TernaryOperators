@@ -1,6 +1,7 @@
 # _28TernaryOperators
 Copia il seguente programma Java e sostituisci il costrutto if-else con l'operatore ternario.
 
+
  public class Main {
      public static void main(String[] args) {
          for (int i = 1; i <= 100; i++) {
